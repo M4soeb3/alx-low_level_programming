@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 /**
- * "Programming is like building a multilingual puzzle" is to be printed by main
+ * "Programming is like building a multilingual puzzle
+ * 
+ * to be printed
  */
 
 int main(void)
