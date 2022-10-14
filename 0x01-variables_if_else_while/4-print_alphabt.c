@@ -11,7 +11,7 @@ int main(void)
 	for (alph = 'a'; alph <= 'z'; alph++)
 	{
 		if (alph != 'e' && alph != 'q')
-		iputchar(alph);
+		putchar(alph);
 	}
 	putchar('\n');
 	
