@@ -5,7 +5,7 @@
  *
  * @n: the int to extract the last digit from
  *
- * Returl: ast digit
+ * Return: ast digit
  *
  */
 
