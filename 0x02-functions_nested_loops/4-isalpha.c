@@ -4,7 +4,7 @@
  * _isalpha - checks for alphabetic character.
  *@c: is c an integer argument
  *
- * Returns 1 if c is a letter, lowercase or uppercase 
+ * Return: 1 ,0 , -1
  */
 
 int _isalpha(int c)
